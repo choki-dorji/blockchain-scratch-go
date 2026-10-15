@@ -1,0 +1,8 @@
+{
+  "genesis_time": "2026-03-18T00:00:00.000000000Z",
+  "chain_id": "the-simple-blockchain",
+  "balances": {
+    "choki": 1000,
+    "pema":0
+  }
+}
